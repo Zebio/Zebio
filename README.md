@@ -8,4 +8,3 @@
 - ⚡ Fun fact: Nas horas vagas assito campeonatos de Rally
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zebio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
