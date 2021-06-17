@@ -5,12 +5,6 @@ Estudante de Engenharia de Computação pela Universidade Federal de Itajubá
 Aqui no Github compartilho projetos de Hardware e Software de sistemas embarcados. 
 Usando Microcontroladores PIC, ESP32, ESP8266 e FPGAs
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="ESP32" height="60" width="60" src="imagens/ESP32.png">
-  <img align="center" alt="ESP8266" height="60" width="60" src="imagens/ESP8266.png">
-  <img align="center" alt="FPGA" height="60" width="60" src="imagens/FPGA.png">
-  <img align="center" alt="PIC" height="60" width="60" src="imagens/PIC.jpg">
-</div>
 <br>
 <br>
 <div>
