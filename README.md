@@ -3,13 +3,7 @@
 Estudante de Engenharia de Computação pela Universidade Federal de Itajubá 
 
 Aqui no Github compartilho projetos de Hardware e Software de sistemas embarcados. 
-Usando Microcontroladores PIC, ESP32, ESP8266 e FPGAs
-
-Confira meus Projetos:
-[Projetos usando ESP32](https://github.com/Zebio/ESP32-Guia-Repositorios).
-[Projetos usando ESP8266](https://github.com/Zebio/ESP8266-Guia-de-Repositorios).
-[Projetos usando PIC](https://github.com/Zebio/PIC16f887-Aquecedor).
-[Projetos em FPGA](https://github.com/Zebio/Circuitos-em-NCL).
+Usando: [ESP32](https://github.com/Zebio/ESP32-Guia-Repositorios), [ESP8266](https://github.com/Zebio/ESP8266-Guia-de-Repositorios), [PIC](https://github.com/Zebio/PIC16f887-Aquecedor) e [FPGA](https://github.com/Zebio/Circuitos-em-NCL).
 
 <br>
 <br>
